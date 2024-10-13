@@ -1,0 +1,68 @@
+
+.title{
+    font-size:50px;
+    text-align: center;
+}
+
+.link_list{
+   margin-left:80px;
+}
+
+li{
+    margin-bottom:10px;
+    font-size: 21px;
+}
+
+.lasagna, .noodles{
+    font-size:70px;
+    text-align: center;
+}
+
+.lasagna_image, .noodles_image{
+    width : 900px;
+    height:500px;
+    display:block;
+    margin: 0 auto;
+}
+
+.description{
+    text-align: center;
+}
+
+.title_h3{
+    font-family: "Century Gothic";
+    font-size:30px;
+    margin-left:20px ;
+    padding-top: 40px;
+    padding-bottom: 15px;;
+    text-align: center;
+}
+
+ul, ol{
+    margin-left: 25px;
+    width:500px;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+p{
+    border: none;
+    width:500px;
+    margin: auto;
+    font-size: 20px;
+}
+
+ul{
+    border:1px solid black;
+    padding:50px;
+}
+
+ol{
+    padding-bottom: 7px;
+}
+.recipe{
+    border: 2px solid rgba(255, 60, 0, 0.39) ;
+    padding:-80px 20px;
+    width:1000px;
+    margin:auto;
+}
